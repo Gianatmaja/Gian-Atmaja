@@ -1,6 +1,10 @@
-# Portfolio
+# About
 
-Hi there! Welcome to my portfolio. Kindly view my projects below.
+Hi there! I am Gian, and welcome to my portfolio website.
+
+If you'd like to contact me, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/gianatmaja/) or by email at gianatmaja25@gmail.com
+
+Kindly view my projects below, and I hope you enjoy!
 
 ## Project: Customer Segmentation on Home Loans
 [Read project online](https://nbviewer.jupyter.org/github/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
