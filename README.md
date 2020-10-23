@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello there! Kindly view my projects below.
+Hi there! Welcome to my portfolio. Kindly view my projects below.
 
 ## [Customer-Segmentation-on-Home-Loans](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans)
 [Read project online](https://nbviewer.jupyter.org/github/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
