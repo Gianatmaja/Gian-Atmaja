@@ -2,7 +2,7 @@
 
 Hi there! Welcome to my portfolio. Kindly view my projects below.
 
-## Customer Segmentation on Home Loans
+## Project: Customer Segmentation on Home Loans
 [Read project online](https://nbviewer.jupyter.org/github/Gianatmaja/Customer-Segmentation-on-Home-Loans/blob/main/Customer%20Segmentation%20on%20Home%20Loans.ipynb)
 - Obtained dataset from [kaggle](https://www.kaggle.com/gavincanacam/home-loan-predictions).
 - Performed EDA & imputed missing values using similar entries.
@@ -12,7 +12,8 @@ Hi there! Welcome to my portfolio. Kindly view my projects below.
 - [Github repo](https://github.com/Gianatmaja/Customer-Segmentation-on-Home-Loans)
 
 
-## Predicting Customer Churn
+
+## Project: Predicting Customer Churn
 [Read project online](https://nbviewer.jupyter.org/github/Gianatmaja/Customer-Churn/blob/main/Predicting%20Customer%20Churns%20.ipynb)
 - Obtained dataset from [kaggle](https://www.kaggle.com/blastchar/telco-customer-churn).
 - Performed EDA & identified several features potentially leading to churn.
@@ -21,7 +22,8 @@ Hi there! Welcome to my portfolio. Kindly view my projects below.
 - [Github repo](https://github.com/Gianatmaja/Customer-Churn)
 
 
-## Life Insurance Calculator
+
+## Project: Life Insurance Calculator
 [Go to web application](https://gian-atmaja.shinyapps.io/LI_Premium/)   
 
 This web application, deployed using R's shiny, estimates the cost of coverage for a life insurance policy in Indonesia.
