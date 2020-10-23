@@ -23,6 +23,7 @@ Hi there! Welcome to my portfolio. Kindly view my projects below.
 
 ## Life Insurance Calculator
 [Go to web application](https://gian-atmaja.shinyapps.io/LI_Premium/)   
+
 This web application, deployed using R's shiny, estimates the cost of coverage for a life insurance policy in Indonesia.
 The calculations used are based on the life table from the [Global Health Observatory Data Repository](https://apps.who.int/gho/data/view.main.60750?lang=en).
 
